@@ -15,7 +15,7 @@ pathspec==0.12.1
 platformdirs==4.3.6
 pluggy==1.5.0
 pydantic==2.10.4
-pydantic_core==2.27.2
+pydantic_core==2.30.0
 pytest==8.3.4
 python-dotenv==1.0.1
 PyYAML==6.0.2
